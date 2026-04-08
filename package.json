@@ -1,0 +1,38 @@
+{
+  "name": "fb-notes-extended-a11y",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Chrome extension for longer Facebook notes, audience control, note duration, accessible music trimming, and latest-note management.",
+  "type": "module",
+  "license": "MIT",
+  "author": "DuckCIT",
+  "contributors": [
+    "Đào Đức Trung (Accessibility / A11Y upgrade)"
+  ],
+  "homepage": "https://github.com/Daoductrung/FB-Notes-Extended",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Daoductrung/FB-Notes-Extended.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Daoductrung/FB-Notes-Extended/issues"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "lucide-react": "^0.294.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/chrome": "^0.0.260",
+    "@types/react": "^18.2.43",
+    "@types/react-dom": "^18.2.17",
+    "@vitejs/plugin-react": "^4.7.0",
+    "typescript": "^5.3.3",
+    "vite": "^6.4.1"
+  }
+}
