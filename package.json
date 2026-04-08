@@ -9,13 +9,13 @@
   "contributors": [
     "Đào Đức Trung (Accessibility / A11Y upgrade)"
   ],
-  "homepage": "https://github.com/Daoductrung/FB-Notes-Extended",
+  "homepage": "https://github.com/Daoductrung/FB-Notes-Extended-A11Y",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Daoductrung/FB-Notes-Extended.git"
+    "url": "https://github.com/Daoductrung/FB-Notes-Extended-A11Y.git"
   },
   "bugs": {
-    "url": "https://github.com/Daoductrung/FB-Notes-Extended/issues"
+    "url": "https://github.com/Daoductrung/FB-Notes-Extended-A11Y/issues"
   },
   "scripts": {
     "dev": "vite",

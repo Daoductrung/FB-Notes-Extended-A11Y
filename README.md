@@ -6,7 +6,7 @@ This repository is a fork of the original project by DuckCIT:
 [https://github.com/DuckCIT/FB-Notes-Extended](https://github.com/DuckCIT/FB-Notes-Extended)
 
 Current repository:
-[https://github.com/Daoductrung/FB-Notes-Extended](https://github.com/Daoductrung/FB-Notes-Extended)
+[https://github.com/Daoductrung/FB-Notes-Extended-A11Y](https://github.com/Daoductrung/FB-Notes-Extended-A11Y)
 
 ## What The Extension Does
 

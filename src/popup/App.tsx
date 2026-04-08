@@ -8,7 +8,7 @@ const MAX_DESCRIPTION_LENGTH = 600;
 const POPUP_STATE_KEY = 'popupComposerStateV2';
 const POPUP_LANGUAGE_KEY = 'popupLanguageV1';
 const MUSIC_PAGE_SIZE = 12;
-const GITHUB_URL = 'https://github.com/Daoductrung/FB-Notes-Extended';
+const GITHUB_URL = 'https://github.com/Daoductrung/FB-Notes-Extended-A11Y';
 const FIXED_MUSIC_TRIM_WINDOW_MS = 30000;
 // Both sliders change the same clip-start state. The coarse slider moves faster,
 // while the fine slider stays on the same value for precise one-second control.

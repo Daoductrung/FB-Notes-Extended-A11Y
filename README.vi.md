@@ -6,7 +6,7 @@ Kho này là bản fork từ dự án gốc của DuckCIT:
 [https://github.com/DuckCIT/FB-Notes-Extended](https://github.com/DuckCIT/FB-Notes-Extended)
 
 Kho hiện tại:
-[https://github.com/Daoductrung/FB-Notes-Extended](https://github.com/Daoductrung/FB-Notes-Extended)
+[https://github.com/Daoductrung/FB-Notes-Extended-A11Y](https://github.com/Daoductrung/FB-Notes-Extended-A11Y)
 
 ## Chức Năng Của Tiện Ích
 
